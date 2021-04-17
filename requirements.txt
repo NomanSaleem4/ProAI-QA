@@ -1,3 +1,4 @@
 streamlit
 pandas
-numpy
+boilerpy3==1.0.4
+transformers[tf-cpu]==4.4.2
